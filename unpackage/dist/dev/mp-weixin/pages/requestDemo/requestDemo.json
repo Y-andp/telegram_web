@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "萌宠",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {}
+}
